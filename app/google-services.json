@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "479473479053",
+    "project_id": "expensetracker-5493e",
+    "storage_bucket": "expensetracker-5493e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479473479053:android:6aa6ba4d2359b023e0a1c4",
+        "android_client_info": {
+          "package_name": "com.example.expensemanagerdep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDYGaX0eYyCftOpgVsC2o-PQBAha98D8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479473479053:android:cfd09f81b845bf3ae0a1c4",
+        "android_client_info": {
+          "package_name": "com.example.expensemangerdep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDYGaX0eYyCftOpgVsC2o-PQBAha98D8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479473479053:android:e6fc129eda82c545e0a1c4",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDYGaX0eYyCftOpgVsC2o-PQBAha98D8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
